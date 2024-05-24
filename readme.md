@@ -2,7 +2,7 @@
 
 This is a tutorial on how to build your very own computer. We will go through the basics, and I will explain every step and also talk about every component that I am using throughout the tutorial.
 
-![Boxes](Images/Komplett.jpg)
+![Boxes](Images/Komplett.JPG)
 
 ## Introduction
 
