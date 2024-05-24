@@ -2,7 +2,7 @@
 
 This is a tutorial on how to build your very own computer. We will go through the basics, and I will explain every step and also talk about every component that I am using throughout the tutorial.
 
-![Boxes](assets/images/Komplett.jpg)
+![Boxes](Images/Komplett.jpg)
 
 ## Introduction
 
@@ -43,73 +43,73 @@ If you want to use the specific components that I used for this tutorial, feel f
 
 The first step is to take your motherboard out of the box. It's better to add as many components to the motherboard before installing it into the case. The first component to install is the CPU. The CPU socket is located in the middle of the motherboard.
 
-![CPU Socket](assets/images/CPU-Socket.JPG)
+![CPU Socket](Images/CPU-Socket.JPG)
 
 ### Step 2: Install the RAM
 
 Next, install your RAM sticks. Insert them firmly into the RAM slots located to the right of the CPU socket.
 
-![RAM Slots](assets/images/RAM-Slot_2.JPG)
+![RAM Slots](Images/RAM-Slot_2.JPG)
 
 ### Step 3: Install the SSD
 
 The SSD is very easy to install. Unscrew the SSD cover located under the CPU socket, insert the SSD, press it lightly, and screw it in. Replace the cover and screw it in.
 
-![SSD Mount](assets/images/SSD-Mounted.JPG)
+![SSD Mount](Images/SSD-Mounted.JPG)
 
 ### Step 4: Install the Motherboard
 
 Once the CPU, SSD, and RAM are installed on the motherboard, screw the motherboard into the case.
 
-![Motherboard Installed](assets/images/MB-Installed.JPG)
+![Motherboard Installed](Images/MB-Installed.JPG)
 
 ### Step 5: Install the PSU
 
 Take your PSU out of the box and find the PSU mount, located either at the bottom of the case or directly behind the motherboard. Place the PSU into the mount with the fan facing outwards. Insert the cables into the appropriate sockets on the PSU.
 
-![PSU Mount](assets/images/PSU-Mount.JPG)
-![PSU Installed](assets/images/PSU-Installed%20(2).JPG)
-![PSU Cables](assets/images/PSU-Cables-Installed.JPG)
+![PSU Mount](Images/PSU-Mount.JPG)
+![PSU Installed](Images/PSU-Installed%20(2).JPG)
+![PSU Cables](Images/PSU-Cables-Installed.JPG)
 
 ### Step 6: Install the GPU
 
 Insert the GPU into the PCI-E slot on the motherboard, located under the SSD.
 
-![GPU](assets/images/GPU.JPG)
-![PCI-E Slot](assets/images/IMG_5002.JPG)
+![GPU](Images/GPU.JPG)
+![PCI-E Slot](Images/IMG_5002.JPG)
 
 ### Step 7: Install the Cooling System
 
 For this build, I used a water pump for maximum cooling capability. Install the radiator on the top mount of the case, ensuring the fans are screwed in beforehand. Then, install the water pump head.
 
-![Radiator](assets/images/Radiator.JPG)
-![Radiator Attachment](assets/images/Radiator-Attachment.JPG)
-![Radiator Installed](assets/images/Radiator_Installed.JPG)
-![Radiator Top Mount](assets/images/Radiator-Top-Mount.JPG)
-![AIO Pump](assets/images/Finish%20-%20Close-Up_1.JPG)
+![Radiator](Images/Radiator.JPG)
+![Radiator Attachment](Images/Radiator-Attachment.JPG)
+![Radiator Installed](Images/Radiator_Installed.JPG)
+![Radiator Top Mount](Images/Radiator-Top-Mount.JPG)
+![AIO Pump](Images/Finish%20-%20Close-Up_1.JPG)
 
 ### Step 8: Connect the Front Panel Headers
 
 Plug in your front panel headers according to the image below.
 
-![Front Panel Headers](assets/images/front-panel-connector_separate.jpg)
-![Front Panel Connector](assets/images/Front-Panel-Connectors.jpg)
+![Front Panel Headers](Images/front-panel-connector_separate.jpg)
+![Front Panel Connector](Images/Front-Panel-Connectors.jpg)
 
 ### Step 9: Install Power Cables
 
 Plug in all the power connectors. Start with the CPU power connector, located in the top left corner of the motherboard. Next, plug in the PCI-E connector for the GPU. Finally, plug in the 24-pin power connector for the motherboard.
 
-![CPU Cable](assets/images/CPU-Power-Close-Up.JPG)
-![CPU Connector](assets/images/CPU-Power-Cable.JPG)
-![PCI-E](assets/images/PCIE-Close-Up.JPG)
-![12-pin](assets/images/PCI-E-Header.JPG)
-![Splitter](assets/images/PCI-E-Spliter.JPG)
-![24-pin](assets/images/24-Pin-Close-Up.JPG)
-![24-pin Installed](assets/images/24-Pin-Installed.JPG)
+![CPU Cable](Images/CPU-Power-Close-Up.JPG)
+![CPU Connector](Images/CPU-Power-Cable.JPG)
+![PCI-E](Images/PCIE-Close-Up.JPG)
+![12-pin](Images/PCI-E-Header.JPG)
+![Splitter](Images/PCI-E-Spliter.JPG)
+![24-pin](Images/24-Pin-Close-Up.JPG)
+![24-pin Installed](Images/24-Pin-Installed.JPG)
 
 ## Finishing Up
 
 Once everything is installed, plug your PC into an outlet. If everything was done correctly, it should start without any issues. The last step is to install your operating system.
 
-![Finished](assets/images/Finish_2.JPG)
-![Finished 2](assets/images/Finish_1.JPG)
+![Finished](Images/Finish_2.JPG)
+![Finished 2](Images/Finish_1.JPG)
